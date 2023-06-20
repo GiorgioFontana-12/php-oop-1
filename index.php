@@ -24,5 +24,6 @@ class Movie {
 }
 
 $Avengers = new Movie("Avengers", "180min", new Actors("Robert D.J.", "Cris H.", "ecc" ))
+$IronMan = new Movie("Iron Man", "108min", new Actors("Robert D.J.", "Gwyneth Paltrow", "ecc" ))
 
 ?>
